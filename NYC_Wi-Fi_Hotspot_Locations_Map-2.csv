@@ -1,0 +1,657 @@
+OBJECTID,Boro,Type,Provider,Name,Location,Lat,Long_,X,Y,Location_T,Remarks,City,SSID,SourceID,"Location (Lat, Long)"
+449,QU,Free,QPL,"Ravenswood, Now a Family Literacy Center",35-32 21 STREET,40.7606431176,-73.9364719875,1001849.07503,216405.901884,Library,,Long Island City,QBPL_WIRELESS,0,"Long Island City
+(40.76064311760, -73.93647198750)"
+450,QU,Free,QPL,Woodside,54-22 SKILLMAN AVENUE,40.745341713,-73.9097937387,1009245.45098,210837.593138,Library,,Woodside,QBPL_WIRELESS,0,"Woodside
+(40.74534171300, -73.90979373870)"
+455,MN,Free,NYPL,Science Industry And Business,188 MADISON AVENUE,40.7481246964,-73.9830630999,988942.887584,211839.106883,Library,,New York,NYPL,0,"New York
+(40.74812469640, -73.98306309990)"
+456,MN,Free,NYPL,Roosevelt Island,524 MAIN STREET,40.7612533724,-73.9501658898,998055.346721,216625.783006,Library,,New York,NYPL,0,"New York
+(40.76125337240, -73.95016588980)"
+470,MN,Free,NYPL,Stephen A. Schwarzman Building,5 AVENUE & 42 STREET,40.7531840458,-73.9821581041,989193.268973,213682.440795,Library,Temporary Closing,New York,NYPL,0,"New York
+(40.75318404580, -73.98215810410)"
+491,MN,Free,NYPL,Kips Bay,446 THIRD AVENUE,40.7438226298,-73.9799076544,989817.560047,210271.911199,Library,,New York,NYPL,0,"New York
+(40.74382262980, -73.97990765440)"
+492,MN,Free,NYPL,Andrew Heiskell Braille & Talking Book Library,40 WEST 20 STREET,40.7404654556,-73.9933569112,986090.883117,209048.217124,Library,,New York,NYPL,0,"New York
+(40.74046545560, -73.99335691120)"
+494,QU,Free,QPL,Broadway,40-20 BROADWAY,40.758529267,-73.9186233204,1006794.3801,215639.846985,Library,,Long Island City,QBPL_WIRELESS,0,"Long Island City
+(40.75852926700, -73.91862332040)"
+507,QU,Free,QPL,Long Island City,37-44 21 STREET,40.757803428,-73.939309302,1001063.77476,215370.753035,Library,,Long Island City,QBPL_WIRELESS,0,"Long Island City
+(40.75780342800, -73.93930930200)"
+511,MN,Free,NYPL,Grand Central,135 EAST 46 STREET,40.7540678756,-73.9735677168,991573.221234,214005.050058,Library,,New York,NYPL,0,"New York
+(40.75406787560, -73.97356771680)"
+3551,MN,Free,Transit Wireless,"59th Street - Columbus Circle - A, B, C, D",Broadway - West 59 Street- Columbus Circle,40.768296,-73.981736,989309.069034,219188.2451,Subway Station,SN 161,New York,TransitWirelessWiFi,161,"New York
+(40.76829600000, -73.98173600000)"
+3552,MN,Free,Transit Wireless,"5th Avenue - 53rd Street - E, M",5th Avenue - 53rd Street,40.760167,-73.975224,991113.709645,216227.025645,Subway Station,SN 276,New York,TransitWirelessWiFi,276,"New York
+(40.76016700000, -73.97522400000)"
+3553,MN,Free,Transit Wireless,"5th Avenue - 59th Street - N, R",5th Avenue - 59th Street,40.764811,-73.973347,991633.181218,217919.140088,Subway Station,SN 8,New York,TransitWirelessWiFi,8,"New York
+(40.76481100000, -73.97334700000)"
+3554,MN,Free,Transit Wireless,5th Avenue - 7,5th Avenue and East 42 Street,40.753821,-73.981963,989247.27667,213914.514898,Subway Station,SN 466,New York,TransitWirelessWiFi,466,"New York
+(40.75382100000, -73.98196300000)"
+3555,MN,Free,Transit Wireless,66th Street ΓÇô (Lincoln Center) - 1,66th St. ΓÇô Broadway (Lincoln Center),40.77344,-73.982209,989177.668927,221062.348746,Subway Station,SN 314,New York,TransitWirelessWiFi,314,"New York
+(40.77344000000, -73.98220900000)"
+3556,MN,Free,Transit Wireless,"72nd St. ΓÇô Broadway - 1, 2, 3",72nd Street - Broadway,40.778453,-73.98197,989243.490115,222888.766621,Subway Station,SN 313,New York,TransitWirelessWiFi,313,"New York
+(40.77845300000, -73.98197000000)"
+3557,MN,Free,Transit Wireless,"72nd Street - Central Park West - B, C",72nd Street - Central Park West,40.775594,-73.97641,990783.637762,221847.50252,Subway Station,SN 160,New York,TransitWirelessWiFi,160,"New York
+(40.77559400000, -73.97641000000)"
+3559,MN,Free,Transit Wireless,"7th Avenue - B, D, E",7th Avenue - 53rd Street,40.762862,-73.981637,989336.906736,217208.465124,Subway Station,SN 277,New York,TransitWirelessWiFi,277,"New York
+(40.76286200000, -73.98163700000)"
+3566,MN,Free,Transit Wireless,Grand Central - 7,Lexington Avenue and East 42 Street,40.751431,-73.976041,990888.246207,213044.153909,Subway Station,SN 465,New York,TransitWirelessWiFi,465,"New York
+(40.75143100000, -73.97604100000)"
+3567,MN,Free,Transit Wireless,"Grand Central - 4, 5, 6",Lexington Avenue and East 42 Street,40.751776,-73.976848,990664.619991,213169.788422,Subway Station,SN 402,New York,TransitWirelessWiFi,402,"New York
+(40.75177600000, -73.97684800000)"
+3568,MN,Free,Transit Wireless,Grand Central Shuttle  - S,Times Square - 42nd Street,40.755983,-73.986229,988065.227792,214701.987105,Subway Station,SN 468,New York,TransitWirelessWiFi,468,"New York
+(40.75598300000, -73.98622900000)"
+3569,MN,Free,Transit Wireless,Times Square - 7,Times Square - 42nd Street,40.755477,-73.987691,987660.209547,214517.574557,Subway Station,SN 467,New York,TransitWirelessWiFi,467,"New York
+(40.75547700000, -73.98769100000)"
+3570,MN,Free,Transit Wireless,"Times Square - N, Q, R",Times Square - 42nd Street,40.754672,-73.986754,987919.849828,214224.32478,Subway Station,SN 11,New York,TransitWirelessWiFi,11,"New York
+(40.75467200000, -73.98675400000)"
+3571,MN,Free,Transit Wireless,"Times Square - 1, 2, 3",Times Square - 42nd Street,40.75529,-73.987495,987714.52109,214449.452072,Subway Station,SN 317,New York,TransitWirelessWiFi,317,"New York
+(40.75529000000, -73.98749500000)"
+3572,MN,Free,Transit Wireless,Times Square Shuttle - S,Times Square Shuttle ΓÇô 42nd Street,40.752769,-73.979189,990015.923765,213531.407658,Subway Station,SN 469,New York,TransitWirelessWiFi,469,"New York
+(40.75276900000, -73.97918900000)"
+3573,QU,Free,Transit Wireless,21ST - L. I.CITY - QUEENSBRIDGE,IND-F-21ST ST - QUEENSBRIDGE,40.754203,-73.942836,1000087.59312,214058.343024,Subway Station,SN 221,Queens,TransitWirelessWiFi,221,"Queens
+(40.75420300000, -73.94283600000)"
+3574,QU,Free,Transit Wireless,VERNON - JACKSON AVENUE,IRT-7-VERNON BLVD-JACKSON AVE,40.742626,-73.953581,997112.868602,209838.710404,Subway Station,SN 464,Queens,TransitWirelessWiFi,464,"Queens
+(40.74262600000, -73.95358100000)"
+3575,QU,Free,Transit Wireless,HUNTERS POINT,IRT-7-HUNTERSPOINT AVE,40.742216,-73.948916,998405.643525,209690.053817,Subway Station,SN 463,Queens,TransitWirelessWiFi,463,"Queens
+(40.74221600000, -73.94891600000)"
+3576,QU,Free,Transit Wireless,23RD - ELY AVENUE,IND-E-V-23RD ST - ELY AV,40.747846,-73.946,999212.417802,211741.727014,Subway Station,SN 274,Queens,TransitWirelessWiFi,274,"Queens
+(40.74784600000, -73.94600000000)"
+3577,QU,Free,Transit Wireless,COURT SQ. - LONG ISLAND CITY,IND-G-LONG ISLAND CITY/COURT SQ,40.746554,-73.943832,999813.432915,211271.387826,Subway Station,SN 281,Queens,TransitWirelessWiFi,281,"Queens
+(40.74655400000, -73.94383200000)"
+3578,QU,Free,Transit Wireless,21ST STREET - VAN ALST (21st Street & Jackson Avenue),IND-G-21ST ST,40.744065,-73.949724,998181.355887,210363.573773,Subway Station,SN 282,Queens,TransitWirelessWiFi,282,"Queens
+(40.74406500000, -73.94972400000)"
+3579,QU,Free,Transit Wireless,65TH STREET,IND-E-G-R-V-65TH ST,40.749669,-73.898453,1012386.05221,212417.601019,Subway Station,SN 268,Queens,TransitWirelessWiFi,268,"Queens
+(40.74966900000, -73.89845300000)"
+3581,QU,Free,Transit Wireless,46TH STREET,IND-E-G-R-V-46TH ST,40.756312,-73.913333,1008260.79525,214833.430526,Subway Station,SN 270,Queens,TransitWirelessWiFi,270,"Queens
+(40.75631200000, -73.91333300000)"
+3582,QU,Free,Transit Wireless,NORTHERN BOULEVARD,IND-E-G-R-V-NORTHERN BLVD,40.752885,-73.906006,1010292.05448,213586.957176,Subway Station,SN 269,Queens,TransitWirelessWiFi,269,"Queens
+(40.75288500000, -73.90600600000)"
+3583,QU,Free,Transit Wireless,ELMHURST AVENUE,IRT-7-90TH ST - ELMHURST AV,40.742454,-73.882017,1016943.58143,209794.654399,Subway Station,SN 452,Queens,TransitWirelessWiFi,266,"Queens
+(40.74245400000, -73.88201700000)"
+3590,QU,Free,Transit Wireless,36 STREET (NORTHERN BLVD),IND-E-G-R-V-36TH ST,40.752039,-73.928781,1003982.24657,213272.781562,Subway Station,SN 272,Queens,TransitWirelessWiFi,272,"Queens
+(40.75203900000, -73.92878100000)"
+3591,QU,Free,Transit Wireless,QUEENS PLAZA (IND),IND-E-G-R-V-QUEENS PLZ,40.748973,-73.937243,1001638.52867,212153.94628,Subway Station,SN 273,Queens,TransitWirelessWiFi,273,"Queens
+(40.74897300000, -73.93724300000)"
+3592,QU,Free,Transit Wireless,STEINWAY STREET,IND-E-G-R-V-STEINWAY ST,40.756879,-73.92074,1006208.52496,215038.063471,Subway Station,SN 271,Queens,TransitWirelessWiFi,271,"Queens
+(40.75687900000, -73.92074000000)"
+602,MN,Limited Free,Time Warner Cable,Dante Park,Park Area at W63rd & Columbus,40.772005,-73.982384,989129.303222,220539.520585,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.77200500000, -73.98238400000)"
+607,MN,Limited Free,Time Warner Cable,Gertrude Ederle Recreation Center,East and South Park Area,40.771442,-73.988109,987543.613152,220334.133857,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.77144200000, -73.98810900000)"
+608,MN,Limited Free,Time Warner Cable,Gertrude Ederle Recreation Center,"1st Floor, North Multi-purpose Rm",40.771442,-73.988109,987543.613152,220334.133857,Indoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.77144200000, -73.98810900000)"
+609,MN,Limited Free,Time Warner Cable,Gertrude Ederle Recreation Center,"1st Floor, South Multi-purpose Rm",40.771442,-73.988109,987543.613152,220334.133857,Indoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.77144200000, -73.98810900000)"
+610,MN,Limited Free,Time Warner Cable,Gertrude Ederle Recreation Center,"1st Floor, North Lobby",40.771442,-73.988109,987543.613152,220334.133857,Indoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.77144200000, -73.98810900000)"
+611,MN,Limited Free,Time Warner Cable,Gertrude Ederle Recreation Center,"2nd Floor, South Lobby",40.771442,-73.988109,987543.613152,220334.133857,Indoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.77144200000, -73.98810900000)"
+3600,QU,Free,Transit Wireless,ROOSEVELT AVENUE (JACKSON HEIGHTS),IND-E-F-G-R-V-JACKSON HTS-ROOSEVELT AV,40.746644,-73.891338,1014358.80119,211317.862594,Subway Station,SN 267,Queens,TransitWirelessWiFi,267,"Queens
+(40.74664400000, -73.89133800000)"
+615,MN,Limited Free,Time Warner Cable,Gertrude Ederle Recreation Center,"2nd Floor, South Fitness Center",40.771442,-73.988109,987543.613152,220334.133857,Indoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.77144200000, -73.98810900000)"
+639,QU,Limited Free,Time Warner Cable,Hunter's Point South Park,Outdoor - Caf├⌐ and Pier,40.742094,-73.961265,994983.691119,209643.851103,Outdoor,3 free 10 min sessions,Queens,GuestWiFi,0,"Queens
+(40.74209400000, -73.96126500000)"
+640,QU,Limited Free,Time Warner Cable,Hunter's Point South Park,Outdoor - Caf├⌐ and Park,40.741994,-73.961256,994986.200957,209607.418761,Outdoor,3 free 10 min sessions,Queens,GuestWiFi,0,"Queens
+(40.74199400000, -73.96125600000)"
+3550,MN,Free,Transit Wireless,59th Street - Columbus Circle - 1,Broadway - West 59 Street- Columbus Circle,40.768247,-73.981929,989255.612341,219170.381687,Subway Station,SN 315,New York,TransitWirelessWiFi,315,"New York
+(40.76824700000, -73.98192900000)"
+647,QU,Free,AT&T,Astoria Park,"Track, Ballfields",40.777,-73.9252,1004966.64819,222367.720997,Outdoor,,Queens,attwifi,0,"Queens
+(40.77700000000, -73.92520000000)"
+3627,MN,Free,Transit Wireless,"68 St-Hunter College (6) (4, 6)",68 St-Hunter College (6),40.768141,-73.96387,994257.916434,219133.309962,Subway Station,SN 399,New York,TransitWirelessWiFi,399,"New York
+(40.76814100000, -73.96387000000)"
+3628,MN,Free,Transit Wireless,77 St (6),77 St (6),40.77362,-73.959874,995363.883613,221129.973856,Subway Station,SN 398,New York,TransitWirelessWiFi,398,"New York
+(40.77362000000, -73.95987400000)"
+811,MN,Limited Free,Time Warner Cable,Recreation Center 54,1st Floor Lobby,40.757418,-73.965084,993923.198818,215226.432458,Indoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.75741800000, -73.96508400000)"
+812,MN,Limited Free,Time Warner Cable,Recreation Center 54,2nd fl multi purpose room,40.757418,-73.965084,993923.198818,215226.432458,Indoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.75741800000, -73.96508400000)"
+813,MN,Limited Free,Time Warner Cable,Recreation Center 54,3rd floor cardio/basketball court,40.757418,-73.965084,993923.198818,215226.432458,Indoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.75741800000, -73.96508400000)"
+825,MN,Limited Free,Time Warner Cable,Richard Tucker Square,W 66th Street,40.773542,-73.981774,989298.145404,221099.535541,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.77354200000, -73.98177400000)"
+149,MN,Free,AT&T,The High Line,Near W 23rd St,40.7474,-74.0051,982836.873221,211574.664171,Outdoor,,New York,attwifi,0,"New York
+(40.74740000000, -74.00510000000)"
+918,QU,Limited Free,Time Warner Cable,Lawrence Virgilio Playground /Windmuller Park,Southside of Comfort Station,40.747454,-73.910588,1009024.582,211606.941009,Outdoor,3 free 10 min sessions,Queens,GuestWiFi,0,"Queens
+(40.74745400000, -73.91058800000)"
+919,QU,Limited Free,Time Warner Cable,Lawrence Virgilio Playground /Windmuller Park,North side of Comfort Station,40.747518,-73.910576,1009027.88318,211630.261501,Outdoor,3 free 10 min sessions,Queens,GuestWiFi,0,"Queens
+(40.74751800000, -73.91057600000)"
+920,QU,Limited Free,Time Warner Cable,Lawrence Virgilio Playground /Windmuller Park,Front of Public School 011,40.746238,-73.909415,1009350.05871,211164.247341,Outdoor,3 free 10 min sessions,Queens,GuestWiFi,0,"Queens
+(40.74623800000, -73.90941500000)"
+921,QU,Limited Free,Time Warner Cable,Lawrence Virgilio Playground /Windmuller Park,Woodside Ave & 57th St,40.745691,-73.907408,1009906.38568,210965.539405,Outdoor TWC Aerial,3 free 10 min sessions,Queens,GuestWiFi,0,"Queens
+(40.74569100000, -73.90740800000)"
+922,QU,Limited Free,Time Warner Cable,Lawrence Virgilio Playground /Windmuller Park,Woodside Ave &  55th St,40.746853,-73.90888,1009498.06793,211388.465068,Outdoor TWC Aerial,3 free 10 min sessions,Queens,GuestWiFi,0,"Queens
+(40.74685300000, -73.90888000000)"
+923,QU,Limited Free,Time Warner Cable,Lawrence Virgilio Playground /Windmuller Park,Woodside Ave &  54th St,40.74745,-73.909532,1009317.18345,211605.783859,Outdoor TWC Aerial,3 free 10 min sessions,Queens,GuestWiFi,0,"Queens
+(40.74745000000, -73.90953200000)"
+76,MN,Free,AT&T,Central Park,South side near Tavern on the Green,40.7721,-73.9771,990592.863615,220574.470646,Outdoor,,New York,attwifi,0,"New York
+(40.77210000000, -73.97710000000)"
+77,MN,Free,AT&T,Central Park,South side near Central Park Zoo,40.768,-73.9712,992227.542432,219081.186559,Outdoor,,New York,attwifi,0,"New York
+(40.76800000000, -73.97120000000)"
+147,MN,Free,Chelsea,,"10th between, 17th and 18th",40.7444079933,-74.0066367391,982410.985293,210484.608936,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74440799330, -74.00663673910)"
+148,MN,Free,Chelsea,,9th between 16th and 17th,40.7426075127,-74.0042603013,983069.455105,209828.595484,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74260751270, -74.00426030130)"
+35,MN,Limited Free,Time Warner Cable,Bryant Park,Back of library - Corner of 6th Ave by Jose Bonifacio de Andrada e Silva Monument,40.754447,-73.984222,988621.363949,214142.466122,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.75444700000, -73.98422200000)"
+37,MN,Limited Free,Time Warner Cable,Bryant Park,Back of library - 2nd St between 5th Ave and 6th Ave,40.754317,-73.983094,988933.890227,214095.161426,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.75431700000, -73.98309400000)"
+38,MN,Limited Free,Time Warner Cable,Bryant Park,Back of library - 40th St between 5th Ave and 6th Ave,40.753164,-73.983964,988692.929422,213675.040547,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.75316400000, -73.98396400000)"
+39,MN,Limited Free,Time Warner Cable,Bryant Park,Back of library - Corner of 6th Ave by 40th St,40.753689,-73.984769,988469.863268,213866.275401,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.75368900000, -73.98476900000)"
+40,MN,Limited Free,Time Warner Cable,Bryant Park,Front library off 5th Ave between 42nd St and 40th St,40.752776,-73.98164,989336.845786,213533.80625,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.75277600000, -73.98164000000)"
+48,MN,Partner Site,Partner,Bryant Park,Entire park,40.7537999998,-73.9833000001,988876.852939,213906.790412,Outdoor,,New York,BryantPark.org,0,"New York
+(40.75379999980, -73.98330000010)"
+64,MN,Limited Free,Time Warner Cable,Madison Square Park,NW area by dog run off 5th Ave,40.742378,-73.988692,987383.498642,209745.150113,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.74237800000, -73.98869200000)"
+65,MN,Limited Free,Time Warner Cable,Madison Square Park,NW area near E. 26th St off 5th Ave,40.7431,-73.9883,987492.08832,210008.212251,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.74310000000, -73.98830000000)"
+66,MN,Limited Free,Time Warner Cable,Madison Square Park,NE area by Shake Shack off Madison Ave,40.7411,-73.987914,987599.150114,209279.563118,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.74110000000, -73.98791400000)"
+67,MN,Limited Free,Time Warner Cable,Madison Square Park,NE area off Madison Ave between 25th St and 24th St,40.741875,-73.987364,987751.519888,209561.94149,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.74187500000, -73.98736400000)"
+68,MN,Limited Free,Time Warner Cable,Madison Square Park,NW area by dog run off 5th Ave,40.742492,-73.986906,987878.400868,209786.753048,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.74249200000, -73.98690600000)"
+69,MN,Limited Free,Time Warner Cable,Madison Square Park,NE area off Madison Ave near E. 26th St,40.74148,-73.98894,987314.818005,209417.971634,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.74148000000, -73.98894000000)"
+74,MN,Free,AT&T,Central Park,South side near Sheep Meadow/ Mineral Spring,40.7729,-73.974,991451.418,220866.177084,Outdoor,,New York,attwifi,0,"New York
+(40.77290000000, -73.97400000000)"
+75,MN,Free,AT&T,Central Park,South side near Rumsey Playfield,40.771,-73.9709,992310.278815,220174.213573,Outdoor,,New York,attwifi,0,"New York
+(40.77100000000, -73.97090000000)"
+108,MN,Limited Free,Time Warner Cable,Chelsea Park,Front of Comfort Station and Playground,40.749908,-74.00089,984003.404681,212488.369364,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.74990800000, -74.00089000000)"
+112,MN,Limited Free,Time Warner Cable,Chelsea Park,Track and Soccer Field,40.749783,-74.000711,984053.00071,212442.827461,Outdoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.74978300000, -74.00071100000)"
+113,MN,Limited Free,Time Warner Cable,Chelsea Recreation Center,2nd Floor Lobby,40.74827,-74.002068,983676.998509,211891.598904,Indoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.74827000000, -74.00206800000)"
+114,MN,Limited Free,Time Warner Cable,Chelsea Recreation Center,3rd Floor Basketball Court,40.74827,-74.002068,983676.998509,211891.598904,Indoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.74827000000, -74.00206800000)"
+115,MN,Limited Free,Time Warner Cable,Chelsea Recreation Center,3rd Floor Basketball Court,40.74827,-74.002068,983676.998509,211891.598904,Indoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.74827000000, -74.00206800000)"
+116,MN,Limited Free,Time Warner Cable,Chelsea Recreation Center,3rd Floor Cardio Rm,40.74827,-74.002068,983676.998509,211891.598904,Indoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.74827000000, -74.00206800000)"
+117,MN,Limited Free,Time Warner Cable,Chelsea Recreation Center,4th Floor Weight Rm,40.74827,-74.002068,983676.998509,211891.598904,Indoor,3 free 10 min sessions,New York,GuestWiFi,0,"New York
+(40.74827000000, -74.00206800000)"
+141,MN,Free,Chelsea,,19th between 9th and 10th r,40.7445703086,-74.0045885368,982978.537308,210543.709212,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74457030860, -74.00458853680)"
+142,MN,Free,Chelsea,,10th between 15th and 16th,40.7431927759,-74.0073877576,982202.843649,210041.883116,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74319277590, -74.00738775760)"
+143,MN,Free,Chelsea,,16th near 9th r,40.7425912548,-74.005064964,982846.479829,209822.684079,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74259125480, -74.00506496400)"
+144,MN,Free,Chelsea,,16th between 8th and 9th,40.7418393463,-74.0032571552,983347.4201,209548.716123,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74183934630, -74.00325715520)"
+145,MN,Free,Chelsea,,10th and 15th,40.7427538286,-74.0076720715,982124.045907,209881.967425,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74275382860, -74.00767207150)"
+150,MN,Free,Chelsea,,17th near 9th,40.7424774535,-74.0029621124,983429.186341,209781.195973,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74247745350, -74.00296211240)"
+151,MN,Free,Chelsea,,8th and 18th,40.7422986209,-74.0007090572,984053.516785,209716.028452,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74229862090, -74.00070905720)"
+152,MN,Free,Chelsea,,10th between 16th and 17th,40.7436967487,-74.007017612,982305.426121,210225.488063,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74369674870, -74.00701761200)"
+153,MN,Free,Chelsea,,8th and 17th,40.7415548385,-74.0011113879,983942.025538,209445.046055,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74155483850, -74.00111138790)"
+154,MN,Free,Chelsea,,17th near 8th,40.741900312,-74.0018570427,983735.40128,209570.916538,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74190031200, -74.00185704270)"
+155,MN,Free,Chelsea,,9th and 19th SW,40.7439893758,-74.003412724,983304.341446,210332.041984,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74398937580, -74.00341272400)"
+156,MN,Free,Chelsea,,14thst and 9thav r,40.7409980115,-74.0054512019,982739.415739,209242.221329,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74099801150, -74.00545120190)"
+157,MN,Free,Chelsea,,18th between 9th and 10th,40.7441275609,-74.0050435071,982852.457836,210382.409009,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74412756090, -74.00504350710)"
+158,MN,Free,Chelsea,,9th av and 13th st,40.7402582786,-74.006003738,982586.283827,208972.72318,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74025827860, -74.00600373800)"
+159,MN,Free,Chelsea,,17th between 10th and 9th,40.7434061518,-74.0052151686,982804.875254,210119.579483,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74340615180, -74.00521516860)"
+160,MN,Free,Chelsea,,18th between 8th and 9th,40.7427700859,-74.0017175673,983774.057042,209887.802059,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74277008590, -74.00171756730)"
+161,MN,Free,Chelsea,,15th between 8th and 9th,40.7409492377,-74.0034019945,983307.271559,209224.422808,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74094923770, -74.00340199450)"
+162,MN,Free,Chelsea,,16th east of 10th Av,40.7432415473,-74.0068030355,982364.872197,210059.638986,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74324154730, -74.00680303550)"
+163,MN,Free,Chelsea,,9th and 18th,40.7434366339,-74.0036487581,983238.928519,210130.663122,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74343663390, -74.00364875810)"
+164,MN,Free,Chelsea,,8th and 15 th SE pole,40.7402745363,-74.0019750591,983702.68481,208978.595544,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74027453630, -74.00197505910)"
+167,MN,Free,Chelsea,,loading dock,40.7418463958,-74.0040446358,983129.204001,209551.293546,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74184639580, -74.00404463580)"
+168,MN,Free,Chelsea,,85 10th lobby unit,40.7433065761,-74.0080261233,982025.955552,210083.359739,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74330657610, -74.00802612330)"
+232,MN,Free,Chelsea,,85 10TH Ave,40.7431196183,-74.0083050731,981948.6519,210015.252263,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74311961830, -74.00830507310)"
+233,MN,Free,Chelsea,,9th and 15th,40.7415832891,-74.0047109131,982944.568872,209455.444656,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74158328910, -74.00471091310)"
+234,MN,Free,Chelsea,,8th and 16th,40.7410467844,-74.001803398,983750.260174,209259.948984,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74104678440, -74.00180339800)"
+235,MN,Free,Chelsea,,17th Caledonia,40.7436317201,-74.0059179066,982610.15189,210201.773544,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74363172010, -74.00591790660)"
+236,MN,Free,Chelsea,,9th and 16th,40.7421021446,-74.0042110753,983083.086968,209644.473149,Outdoor,,New York,CICFreeWiFi,0,"New York
+(40.74210214460, -74.00421107530)"
+3527,MN,Free,Transit Wireless,"14th Street- 8th Avenue - A, C, E, L",14th Street - 8th Avenue,40.740893,-74.00169,983781.682837,209203.919826,Subway Station,SN 166,New York,TransitWirelessWiFi,166,"New York
+(40.74089300000, -74.00169000000)"
+3530,MN,Free,Transit Wireless,18 Street - 1,18th Street - 7th Avenue,40.74104,-73.997871,984839.96748,209257.479245,Subway Station,SN 321,New York,TransitWirelessWiFi,321,"New York
+(40.74104000000, -73.99787100000)"
+3531,MN,Free,Transit Wireless,23 Street - 1,23rd Street - 7th Avenue,40.744081,-73.995657,985453.43439,210365.434999,Subway Station,SN 320,New York,TransitWirelessWiFi,320,"New York
+(40.74408100000, -73.99565700000)"
+3532,MN,Free,Transit Wireless,"23rd Street - C, E",23rd Street - 8th Avenue,40.745906,-73.998041,984792.819109,211030.317053,Subway Station,SN 165,New York,TransitWirelessWiFi,165,"New York
+(40.74590600000, -73.99804100000)"
+3533,MN,Free,Transit Wireless,"23rd Street - N, R",23rd Street ΓÇô Broadway,40.741303,-73.989344,987202.873946,209353.470933,Subway Station,SN 14,New York,TransitWirelessWiFi,14,"New York
+(40.74130300000, -73.98934400000)"
+3534,MN,Free,Transit Wireless,23rd Street - F,West 23 Street and 6 Avenue,40.742878,-73.992821,986239.318784,209927.195437,Subway Station,SN 228,New York,TransitWirelessWiFi,228,"New York
+(40.74287800000, -73.99282100000)"
+3536,MN,Free,Transit Wireless,28th Street - 1,28th Street  - 7th Avenue,40.747215,-73.993365,986088.455345,211507.291244,Subway Station,SN 319,New York,TransitWirelessWiFi,319,"New York
+(40.74721500000, -73.99336500000)"
+3537,MN,Free,Transit Wireless,"28th Street - Broadway - N, R",28th Street - Broadway,40.745494,-73.988691,987383.629021,210880.408482,Subway Station,SN 13,New York,TransitWirelessWiFi,13,"New York
+(40.74549400000, -73.98869100000)"
+3538,MN,Free,Transit Wireless,28th Street - (6),28th Street - Park Avenue South,40.74307,-73.984264,988610.472216,209997.457293,Subway Station,SN 404,New York,TransitWirelessWiFi,404,"New York
+(40.74307000000, -73.98426400000)"
+3539,MN,Free,Transit Wireless,33rd Street - 6,33rd Street - Park Avenue South,40.746081,-73.982076,989216.546242,211094.577207,Subway Station,SN 403,New York,TransitWirelessWiFi,403,"New York
+(40.74608100000, -73.98207600000)"
+3540,MN,Free,Transit Wireless,"34th Street - Herald Square - N, Q, R",34th STREET - 6 Avenue and Broadway,40.749567,-73.98795,987588.749772,212364.36043,Subway Station,SN 12,New York,TransitWirelessWiFi,12,"New York
+(40.74956700000, -73.98795000000)"
+3541,MN,Free,Transit Wireless,"34th Street - Herald Square - B, D, F, M",34th STREET - 6 Avenue and Broadway,40.749719,-73.987823,987623.930557,212419.74379,Subway Station,SN 227,New York,TransitWirelessWiFi,227,"New York
+(40.74971900000, -73.98782300000)"
+3542,MN,Free,Transit Wireless,"42nd Street - Bryant Park - B, D, F, M",42th Street - 6 Avenue,40.754222,-73.984569,988525.240463,214060.47427,Subway Station,SN 226,New York,TransitWirelessWiFi,226,"New York
+(40.75422200000, -73.98456900000)"
+3543,MN,Free,Transit Wireless,"42nd Street ΓÇô Port Authority - A, C, E",42nd Street ΓÇô Port Authority,40.757308,-73.989735,987093.840995,215184.594487,Subway Station,SN 163,New York,TransitWirelessWiFi,163,"New York
+(40.75730800000, -73.98973500000)"
+3544,MN,Free,Transit Wireless,"47-50th Street ΓÇô Rockefeller Center - B, D, F, M",47-50th Street ΓÇô Rockefeller Center,40.758663,-73.981329,989422.55478,215678.649836,Subway Station,SN 225,New York,TransitWirelessWiFi,225,"New York
+(40.75866300000, -73.98132900000)"
+3545,MN,Free,Transit Wireless,"49th Street ΓÇô 7th Avenue - N, R",49th Street - 7th Avenue,40.759901,-73.984139,988643.999608,216129.540274,Subway Station,SN 10,New York,TransitWirelessWiFi,10,"New York
+(40.75990100000, -73.98413900000)"
+3546,MN,Free,Transit Wireless,"50th St. ΓÇô 8th Avenue - C, E",50th Street - 8th Avenue,40.762456,-73.985984,988132.727204,217060.323417,Subway Station,SN 162,New York,TransitWirelessWiFi,162,"New York
+(40.76245600000, -73.98598400000)"
+3547,MN,Free,Transit Wireless,50 Street - 1,50th Street - Broadway,40.761728,-73.983849,988724.216068,216795.190944,Subway Station,SN 316,New York,TransitWirelessWiFi,316,"New York
+(40.76172800000, -73.98384900000)"
+3548,MN,Free,Transit Wireless,57th Street - F,57th Street - 6th Avenue,40.763971,-73.977451,990496.405798,217612.78112,Subway Station,SN 224,New York,TransitWirelessWiFi,224,"New York
+(40.76397100000, -73.97745100000)"
+3549,MN,Free,Transit Wireless,"57th Street - N, Q, R",57th Street - 7th Avenue (Midtown),40.764664,-73.980658,989607.963732,217865.051441,Subway Station,SN 9,New York,TransitWirelessWiFi,9,"New York
+(40.76466400000, -73.98065800000)"
+327,MN,Free,NYPL,Webster,1465 YORK AVENUE,40.7706525435,-73.951341694,997727.716143,220050.028126,Library,,New York,NYPL,0,"New York
+(40.77065254350, -73.95134169400)"
+329,MN,Free,NYPL,58th Street,127 EAST 58 STREET,40.7621860177,-73.9693817047,992731.946935,216963.13174,Library,,New York,NYPL,0,"New York
+(40.76218601770, -73.96938170470)"
+332,QU,Free,QPL,Astoria,14-01 ASTORIA BOULEVARD,40.7723828899,-73.9287188126,1003993.44508,220684.740767,Library,,Long Island City,QBPL_WIRELESS,0,"Long Island City
+(40.77238288990, -73.92871881260)"
+344,MN,Free,NYPL,Columbus,742 10 AVENUE,40.7649346184,-73.9912208178,986681.927867,217963.176984,Library,,New York,NYPL,0,"New York
+(40.76493461840, -73.99122081780)"
+348,MN,Free,NYPL,Mid Manhattan,455 5 AVENUE,40.7518915617,-73.9816985108,989320.702117,213211.573298,Library,,New York,NYPL,0,"New York
+(40.75189156170, -73.98169851080)"
+351,QU,Free,QPL,"Queensbridge, Now a Family Literacy Center",10-43 41 AVENUE,40.7552001994,-73.9442238947,999702.838177,214421.407165,Library,,Long Island City,QBPL_WIRELESS,0,"Long Island City
+(40.75520019940, -73.94422389470)"
+356,QU,Free,QPL,Court Square,25-01 JACKSON AVENUE,40.7470624208,-73.9442436779,999699.244352,211456.548921,Library,,Long Island City,QBPL_WIRELESS,0,"Long Island City
+(40.74706242080, -73.94424367790)"
+377,QU,Free,QPL,Jackson Heights,35-51 81 STREET,40.7501960856,-73.8850693247,1016094.06917,212614.21721,Library,,Jackson Heights,QBPL_WIRELESS,0,"Jackson Heights
+(40.75019608560, -73.88506932470)"
+378,MN,Free,NYPL,Muhlenberg,209 WEST 23 STREET,40.7445100483,-73.9959597161,985369.545321,210521.746985,Library,,New York,NYPL,0,"New York
+(40.74451004830, -73.99595971610)"
+383,QU,Free,QPL,Langston Hughes,100-01 NORTHERN BOULEVARD,40.7577118988,-73.8682002957,1020763.88103,215359.050959,Library,,Corona,QBPL_WIRELESS,0,"Corona
+(40.75771189880, -73.86820029570)"
+393,MN,Free,NYPL,Library For Performing Arts,40 LINCOLN CENTER PLAZA,40.7735069912,-73.9845468452,988530.139066,221086.633008,Library,,New York,NYPL,0,"New York
+(40.77350699120, -73.98454684520)"
+400,MN,Free,NYPL,Terrence Cardinal Cooke-Cathedral,560 LEXINGTON AVENUE,40.7568571776,-73.9726324717,991832.018945,215021.362986,Library,Temporary Closing,New York,NYPL,0,"New York
+(40.75685717760, -73.97263247170)"
+412,QU,Free,QPL,Steinway,21-45 31 STREET,40.7768170122,-73.9094170178,1009337.97901,222305.178799,Library,,Long Island City,QBPL_WIRELESS,0,"Long Island City
+(40.77681701220, -73.90941701780)"
+413,QU,Free,QPL,Corona,38-23 104 STREET,40.7508940804,-73.861976844,1022491.94286,212877.757037,Library,,Corona,QBPL_WIRELESS,0,"Corona
+(40.75089408040, -73.86197684400)"
+417,QU,Free,QPL,Sunnyside,43-06 GREENPOINT AVENUE,40.7408087817,-73.9216691603,1005956.34207,209182.936999,Library,,Long Island City,QBPL_WIRELESS,0,"Long Island City
+(40.74080878170, -73.92166916030)"
+420,MN,Free,NYPL,Riverside,127 AMSTERDAM AVENUE,40.7742029054,-73.9844546501,988555.629828,221340.182369,Library,,New York,NYPL,0,"New York
+(40.77420290540, -73.98445465010)"
+422,QU,Free,QPL,East Elmhurst,95-06 ASTORIA BOULEVARD,40.7624221297,-73.87386663,1019191.60596,217072.829356,Library,,East Elmhurst,QBPL_WIRELESS,0,"East Elmhurst
+(40.76242212970, -73.87386663000)"
+429,MN,Free,NYPL,67th Street,328 EAST 67 STREET,40.7649150063,-73.9595499458,995455.102906,217958.496876,Library,,New York,NYPL,0,"New York
+(40.76491500630, -73.95954994580)"
+430,MN,Free,NYPL,Yorkville,222 EAST 79 STREET,40.7736058206,-73.9564040689,996324.968948,221125.267117,Library,,New York,NYPL,0,"New York
+(40.77360582060, -73.95640406890)"
+4554,MN,Free,BETA LinkNYC - Citybridge,mn-05-122622,944 8 Avenue,40.765828,-73.983364,988858.289062,218288.981137,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000092,"New York
+(40.76582800000, -73.98336400000)"
+4555,MN,Free,BETA LinkNYC - Citybridge,mn-05-122522,250 West 57St,40.766175,-73.98199,989238.870733,218415.479976,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000111,"New York
+(40.76617500000, -73.98199000000)"
+4556,MN,Free,BETA LinkNYC - Citybridge,mn-05-122180,1216 Broadway,40.746624,-73.988399,987464.485248,211292.11423,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000130,"New York
+(40.74662400000, -73.98839900000)"
+4557,MN,Free,BETA LinkNYC - Citybridge,mn-05-122369,1293 Broadway,40.749663,-73.988006,987573.228802,212399.334191,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000141,"New York
+(40.74966300000, -73.98800600000)"
+4558,MN,Free,BETA LinkNYC - Citybridge,mn-05-122169,1431 Broadway,40.754494,-73.986941,987868.050504,214159.465824,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000155,"New York
+(40.75449400000, -73.98694100000)"
+4559,MN,Free,BETA LinkNYC - Citybridge,mn-05-122171,1450 Broadway,40.754846,-73.986363,988028.167852,214287.73525,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000158,"New York
+(40.75484600000, -73.98636300000)"
+4560,MN,Free,BETA LinkNYC - Citybridge,mn-05-133361,1600 Broadway,40.760413,-73.984541,988532.599951,216316.058731,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000162,"New York
+(40.76041300000, -73.98454100000)"
+4561,MN,Free,BETA LinkNYC - Citybridge,mn-05-134185,1605 Broadway,40.760269,-73.984867,988442.297379,216263.579044,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000163,"New York
+(40.76026900000, -73.98486700000)"
+4562,MN,Free,BETA LinkNYC - Citybridge,mn-05-122088,1606 Broadway,40.760646,-73.98442,988566.105429,216400.954204,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000164,"New York
+(40.76064600000, -73.98442000000)"
+4563,MN,Free,BETA LinkNYC - Citybridge,mn-05-133511,1606 Broadway,40.760622,-73.984234,988617.634319,216392.219437,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000165,"New York
+(40.76062200000, -73.98423400000)"
+4564,MN,Free,BETA LinkNYC - Citybridge,mn-05-134155,1611 Broadway,40.76072,-73.984642,988504.600355,216427.903969,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000166,"New York
+(40.76072000000, -73.98464200000)"
+4565,MN,Free,BETA LinkNYC - Citybridge,mn-05-133508,1626 Broadway,40.760883,-73.984278,988605.42799,216487.308101,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000168,"New York
+(40.76088300000, -73.98427800000)"
+4566,MN,Free,BETA LinkNYC - Citybridge,mn-05-122541,1701 Broadway,40.763981,-73.982638,989059.529543,217616.097115,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000177,"New York
+(40.76398100000, -73.98263800000)"
+4567,MN,Free,BETA LinkNYC - Citybridge,mn-05-122529,1710 Broadway,40.764127,-73.98231,989150.379628,217669.307905,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000178,"New York
+(40.76412700000, -73.98231000000)"
+4568,MN,Free,BETA LinkNYC - Citybridge,mn-05-122532,1725 Broadway,40.764676,-73.982385,989129.563348,217869.32252,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000180,"New York
+(40.76467600000, -73.98238500000)"
+4569,MN,Free,BETA LinkNYC - Citybridge,mn-05-122775,Herald Square,40.750087,-73.987781,987635.548964,212553.819662,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000185,"New York
+(40.75008700000, -73.98778100000)"
+4575,MN,Free,BETA LinkNYC - Citybridge,mn-06-121495,154 E 29Th St,40.742625,-73.980628,989618.049806,209835.531533,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000231,"New York
+(40.74262500000, -73.98062800000)"
+4576,MN,Free,BETA LinkNYC - Citybridge,mn-06-121521,155 East 38Th Street,40.748387,-73.976353,990802.100715,211935.103213,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000232,"New York
+(40.74838700000, -73.97635300000)"
+4577,MN,Free,BETA LinkNYC - Citybridge,mn-06-136202,160 East 38Th Street,40.74829,-73.976516,990756.94622,211899.750848,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000233,"New York
+(40.74829000000, -73.97651600000)"
+4578,MN,Free,BETA LinkNYC - Citybridge,mn-06-134118,160 East 54Th,40.758276,-73.969132,992801.622651,215538.608576,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000235,"New York
+(40.75827600000, -73.96913200000)"
+4583,MN,Free,BETA LinkNYC - Citybridge,mn-06-137072,201 East 42Nd St,40.750729,-73.974079,991431.927161,212788.547437,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000251,"New York
+(40.75072900000, -73.97407900000)"
+4584,MN,Free,BETA LinkNYC - Citybridge,mn-06-134218,201 East 57Th Street,40.760207,-73.967177,993342.969168,216242.331874,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000252,"New York
+(40.76020700000, -73.96717700000)"
+4590,MN,Free,BETA LinkNYC - Citybridge,mn-06-121501,336 3rd Ave,40.740041,-73.982424,989120.560746,208893.99331,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000266,"New York
+(40.74004100000, -73.98242400000)"
+4592,MN,Free,BETA LinkNYC - Citybridge,mn-06-138462,340 3Rd Ave,40.740246,-73.982383,989131.907411,208968.683591,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000269,"New York
+(40.74024600000, -73.98238300000)"
+4593,MN,Free,BETA LinkNYC - Citybridge,mn-06-121539,355 3Rd Ave,40.740573,-73.981729,989313.114747,209087.857185,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000272,"New York
+(40.74057300000, -73.98172900000)"
+4594,MN,Free,BETA LinkNYC - Citybridge,mn-06-121499,359 3Rd Ave,40.740775,-73.981576,989355.497415,209161.461073,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000273,"New York
+(40.74077500000, -73.98157600000)"
+4595,MN,Free,BETA LinkNYC - Citybridge,mn-06-121498,371 3Rd Ave,40.741169,-73.981297,989432.7808,209305.024163,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000276,"New York
+(40.74116900000, -73.98129700000)"
+4596,MN,Free,BETA LinkNYC - Citybridge,mn-06-121496,395 3Rd Ave,40.742007,-73.98068,989603.690081,209610.371293,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000278,"New York
+(40.74200700000, -73.98068000000)"
+4597,MN,Free,BETA LinkNYC - Citybridge,mn-06-121506,429 3Rd Ave,40.743093,-73.979813,989843.849894,210006.089826,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000284,"New York
+(40.74309300000, -73.97981300000)"
+4598,MN,Free,BETA LinkNYC - Citybridge,mn-06-121505,450 3Rd Ave,40.743954,-73.979652,989888.390383,210319.789887,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000286,"New York
+(40.74395400000, -73.97965200000)"
+4599,MN,Free,BETA LinkNYC - Citybridge,mn-06-133465,451 3Rd Ave,40.743876,-73.979316,989981.502024,210291.393806,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000287,"New York
+(40.74387600000, -73.97931600000)"
+4600,MN,Free,BETA LinkNYC - Citybridge,mn-06-121502,489 3Rd Ave,40.745116,-73.978416,990230.779207,210743.225552,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000292,"New York
+(40.74511600000, -73.97841600000)"
+4601,MN,Free,BETA LinkNYC - Citybridge,mn-06-121513,525 3Rd Ave,40.746449,-73.977444,990499.988718,211228.947943,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000297,"New York
+(40.74644900000, -73.97744400000)"
+4602,MN,Free,BETA LinkNYC - Citybridge,mn-06-121512,528 3Rd Ave,40.746542,-73.977695,990430.431095,211262.813012,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000298,"New York
+(40.74654200000, -73.97769500000)"
+4603,MN,Free,BETA LinkNYC - Citybridge,mn-06-138165,558 East 37Th St,40.747672,-73.976965,990632.596521,211674.560578,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000302,"New York
+(40.74767200000, -73.97696500000)"
+4604,MN,Free,BETA LinkNYC - Citybridge,mn-06-121522,560 3Rd Ave,40.74779,-73.976782,990683.291231,211717.565151,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000303,"New York
+(40.74779000000, -73.97678200000)"
+4605,MN,Free,BETA LinkNYC - Citybridge,mn-06-121352,581B 3Rd Ave,40.748289,-73.976105,990870.826188,211899.417313,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000304,"New York
+(40.74828900000, -73.97610500000)"
+4606,MN,Free,BETA LinkNYC - Citybridge,mn-06-121519,596 3Rd Ave,40.748822,-73.976034,990890.445737,212093.61171,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000306,"New York
+(40.74882200000, -73.97603400000)"
+4607,MN,Free,BETA LinkNYC - Citybridge,mn-06-138030,605 3Rd Ave,40.748732,-73.97536,991077.20537,212060.87363,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000308,"New York
+(40.74873200000, -73.97536000000)"
+4608,MN,Free,BETA LinkNYC - Citybridge,mn-06-121364,605 3Rd Ave,40.748914,-73.975648,990997.388434,212127.159764,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000310,"New York
+(40.74891400000, -73.97564800000)"
+4609,MN,Free,BETA LinkNYC - Citybridge,mn-06-121527,639 3Rd Ave,40.750156,-73.974741,991248.567133,212579.731491,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000313,"New York
+(40.75015600000, -73.97474100000)"
+4610,MN,Free,BETA LinkNYC - Citybridge,mn-06-137977,640 3Rd Ave,40.750389,-73.974858,991216.12532,212664.611571,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000315,"New York
+(40.75038900000, -73.97485800000)"
+4611,MN,Free,BETA LinkNYC - Citybridge,mn-06-121362,666 3Rd Ave,40.75096,-73.974468,991324.122468,212872.676532,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000316,"New York
+(40.75096000000, -73.97446800000)"
+4612,MN,Free,BETA LinkNYC - Citybridge,mn-06-121536,666 3Rd Ave,40.751406,-73.974143,991414.121885,213035.195133,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000317,"New York
+(40.75140600000, -73.97414300000)"
+4613,MN,Free,BETA LinkNYC - Citybridge,mn-06-121535,685 3Rd Ave,40.751497,-73.973765,991518.843285,213068.380511,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000320,"New York
+(40.75149700000, -73.97376500000)"
+4614,MN,Free,BETA LinkNYC - Citybridge,mn-06-121358,721 3Rd Ave E45St,40.752666,-73.972842,991774.443741,213494.362915,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000327,"New York
+(40.75266600000, -73.97284200000)"
+4615,MN,Free,BETA LinkNYC - Citybridge,mn-06-121370,733 3Rd Ave,40.753196,-73.972445,991884.376521,213687.493411,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000328,"New York
+(40.75319600000, -73.97244500000)"
+4616,MN,Free,BETA LinkNYC - Citybridge,mn-06-121816,750 3Rd Ave,40.753899,-73.972326,991917.265693,213943.62947,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000331,"New York
+(40.75389900000, -73.97232600000)"
+4617,MN,Free,BETA LinkNYC - Citybridge,mn-06-133473,760 3Rd Ave,40.754092,-73.97218,991957.693631,214013.958437,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000333,"New York
+(40.75409200000, -73.97218000000)"
+4618,MN,Free,BETA LinkNYC - Citybridge,mn-06-121813,768 3Rd Ave,40.754513,-73.971879,992041.038197,214167.369015,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000334,"New York
+(40.75451300000, -73.97187900000)"
+4619,MN,Free,BETA LinkNYC - Citybridge,mn-06-121824,797 3Rd Ave,40.75523,-73.971024,992277.83303,214428.672583,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000335,"New York
+(40.75523000000, -73.97102400000)"
+4620,MN,Free,BETA LinkNYC - Citybridge,mn-06-121820,800 3Rd Ave,40.755874,-73.971032,992275.53903,214663.301971,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000336,"New York
+(40.75587400000, -73.97103200000)"
+4621,MN,Free,BETA LinkNYC - Citybridge,mn-06-121822,800 3Rd Ave,40.755362,-73.971265,992211.047938,214476.742475,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000337,"New York
+(40.75536200000, -73.97126500000)"
+4622,MN,Free,BETA LinkNYC - Citybridge,mn-06-121831,835 3Rd Ave,40.756324,-73.970145,992521.225104,214827.334113,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000338,"New York
+(40.75632400000, -73.97014500000)"
+4623,MN,Free,BETA LinkNYC - Citybridge,mn-06-133472,845 3Rd Ave,40.756503,-73.970107,992531.730617,214892.553226,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000339,"New York
+(40.75650300000, -73.97010700000)"
+4624,MN,Free,BETA LinkNYC - Citybridge,mn-06-133477,845 3Rd Avenue,40.75691,-73.969813,992613.130984,215040.864505,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000340,"New York
+(40.75691000000, -73.96981300000)"
+3658,MN,Free,Transit Wireless,"Lexington Ave - 59th St (N,R,W)/59 St (4,5,6)",Lexington Ave,40.76266,-73.967258,993320.195656,217136.03182,Subway Station,SN 7,New York,TransitWirelessWiFi,7,"New York
+(40.76266000000, -73.96725800000)"
+3662,MN,Free,Transit Wireless,Lexington Av-53rd St (E)/51 St (6),Lexington Ave - 53rd St,40.757552,-73.969055,992823.047793,215274.839293,Subway Station,SN 275,New York,TransitWirelessWiFi,275,"New York
+(40.75755200000, -73.96905500000)"
+3663,MN,Free,Transit Wireless,"Lexington Av (N,R,W)/59 St (4,5,6)",59th St,40.762526,-73.967967,993123.806191,217087.138599,Subway Station,SN 400,New York,TransitWirelessWiFi,400,"New York
+(40.76252600000, -73.96796700000)"
+3664,MN,Free,Transit Wireless,Lexington Av -53 St (E)/51 St(6),51st St,40.757107,-73.97192,992029.376027,215112.44388,Subway Station,SN 401,New York,TransitWirelessWiFi,401,"New York
+(40.75710700000, -73.97192000000)"
+4625,MN,Free,BETA LinkNYC - Citybridge,mn-06-135879,900 3Rd Ave,40.758518,-73.968987,992841.762008,215626.791262,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000349,"New York
+(40.75851800000, -73.96898700000)"
+4626,MN,Free,BETA LinkNYC - Citybridge,mn-06-121842,906 3Rd Ave,40.758993,-73.968727,992913.729955,215799.874881,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000350,"New York
+(40.75899300000, -73.96872700000)"
+4627,MN,Free,BETA LinkNYC - Citybridge,mn-06-121836,909 3Rd Avenue,40.758397,-73.968709,992918.79416,215582.734402,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000351,"New York
+(40.75839700000, -73.96870900000)"
+4628,MN,Free,BETA LinkNYC - Citybridge,mn-06-121854,909 3Rd Avenue,40.758817,-73.96841,993001.573317,215735.783844,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000352,"New York
+(40.75881700000, -73.96841000000)"
+4629,MN,Free,BETA LinkNYC - Citybridge,mn-06-121850,930 3Rd Ave,40.75961,-73.968242,993048.01065,216024.716486,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000355,"New York
+(40.75961000000, -73.96824200000)"
+4630,MN,Free,BETA LinkNYC - Citybridge,mn-06-136181,936 3Rd Ave,40.759756,-73.968048,993101.735626,216077.928604,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000357,"New York
+(40.75975600000, -73.96804800000)"
+4631,MN,Free,BETA LinkNYC - Citybridge,mn-06-133436,939 3Rd Avenue,40.760003,-73.967592,993228.02905,216167.965192,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000359,"New York
+(40.76000300000, -73.96759200000)"
+4632,MN,Free,BETA LinkNYC - Citybridge,mn-06-121849,949 3Rd Avenue,40.759631,-73.967826,993163.253518,216032.409528,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000360,"New York
+(40.75963100000, -73.96782600000)"
+4633,MN,Free,BETA LinkNYC - Citybridge,mn-06-121733,950 3Rd Ave,40.760136,-73.967777,993176.760445,216216.402537,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000361,"New York
+(40.76013600000, -73.96777700000)"
+4634,MN,Free,BETA LinkNYC - Citybridge,mn-06-121857,953 3Rd Avenue,40.760346,-73.967303,993308.044435,216292.96107,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000362,"New York
+(40.76034600000, -73.96730300000)"
+4635,MN,Free,BETA LinkNYC - Citybridge,mn-06-138438,954 3Rd Ave,40.760462,-73.967551,993239.325384,216335.19812,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000363,"New York
+(40.76046200000, -73.96755100000)"
+4636,MN,Free,BETA LinkNYC - Citybridge,mn-08-121734,991 3Rd Ave,40.761604,-73.966388,993561.350853,216751.387632,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000369,"New York
+(40.76160400000, -73.96638800000)"
+4638,MN,Free,BETA LinkNYC - Citybridge,mn-04-108537,159 8 Avenue,40.742297,-74.00094,983989.521387,209715.438524,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000453,"New York
+(40.74229700000, -74.00094000000)"
+4639,MN,Free,BETA LinkNYC - Citybridge,mn-05-122628,1775 Broadway,40.767271,-73.982247,989167.59937,218814.774518,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000458,"New York
+(40.76727100000, -73.98224700000)"
+4640,MN,Free,BETA LinkNYC - Citybridge,mn-04-123508,199 8 Avenue,40.743582,-73.999902,984277.155757,210183.603567,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000462,"New York
+(40.74358200000, -73.99990200000)"
+4641,MN,Free,BETA LinkNYC - Citybridge,mn-04-107977,221 8 Avenue,40.744263,-73.999405,984414.872555,210431.714134,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000464,"New York
+(40.74426300000, -73.99940500000)"
+4642,MN,Free,BETA LinkNYC - Citybridge,mn-04-123501,232 8 Avenue,40.744403,-73.998993,984529.035822,210482.721647,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000465,"New York
+(40.74440300000, -73.99899300000)"
+4643,MN,Free,BETA LinkNYC - Citybridge,mn-04-108002,233 8 Avenue,40.744589,-73.999171,984479.712066,210550.486869,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000466,"New York
+(40.74458900000, -73.99917100000)"
+4644,MN,Free,BETA LinkNYC - Citybridge,mn-04-108509,238 8 Avenue,40.74475,-73.998736,984600.247708,210609.145751,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000468,"New York
+(40.74475000000, -73.99873600000)"
+4645,MN,Free,BETA LinkNYC - Citybridge,mn-05-137326,243 West 27Th St,40.747905,-73.996434,985238.072926,211758.63087,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000469,"New York
+(40.74790500000, -73.99643400000)"
+4646,MN,Free,BETA LinkNYC - Citybridge,mn-05-139276,260 West 52St,40.763424,-73.985061,988388.357496,217413.039918,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000472,"New York
+(40.76342400000, -73.98506100000)"
+4647,MN,Free,BETA LinkNYC - Citybridge,mn-04-123646,261 West 23St,40.745445,-73.998618,984632.940888,210862.356957,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000473,"New York
+(40.74544500000, -73.99861800000)"
+4648,MN,Free,BETA LinkNYC - Citybridge,mn-05-107818,670 8 AVENUE,40.757544,-73.989409,987184.146445,215270.587732,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000475,"New York
+(40.75754400000, -73.98940900000)"
+4649,MN,Free,BETA LinkNYC - Citybridge,mn-05-121354,270 West 43St,40.757753,-73.989252,987227.632616,215346.738547,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000480,"New York
+(40.75775300000, -73.98925200000)"
+4650,MN,Free,BETA LinkNYC - Citybridge,mn-04-139167,282 8 Avenue,40.745929,-73.997753,984872.620785,211038.698605,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000483,"New York
+(40.74592900000, -73.99775300000)"
+4651,MN,Free,BETA LinkNYC - Citybridge,mn-04-122503,300 West 57Th St,40.766642,-73.983101,988931.084699,218585.562202,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000484,"New York
+(40.76664200000, -73.98310100000)"
+4652,MN,Free,BETA LinkNYC - Citybridge,mn-04-133373,301 West 57Th St,40.766947,-73.98315,988917.490145,218696.681184,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000486,"New York
+(40.76694700000, -73.98315000000)"
+4653,MN,Free,BETA LinkNYC - Citybridge,mn-04-122621,302 West 57Th St,40.766964,-73.982855,988999.204635,218702.890703,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000487,"New York
+(40.76696400000, -73.98285500000)"
+4654,MN,Free,BETA LinkNYC - Citybridge,mn-04-122567,302 West 37St,40.754138,-73.992341,986371.969291,214029.586552,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000489,"New York
+(40.75413800000, -73.99234100000)"
+4655,MN,Free,BETA LinkNYC - Citybridge,mn-04-123656,327 8 Avenue,40.747381,-73.997136,985043.567896,211567.713715,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000493,"New York
+(40.74738100000, -73.99713600000)"
+4656,MN,Free,BETA LinkNYC - Citybridge,mn-05-136213,382 8 Avenue,40.749122,-73.995553,985482.159291,212202.034245,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000496,"New York
+(40.74912200000, -73.99555300000)"
+4657,MN,Free,BETA LinkNYC - Citybridge,mn-04-144139,4 Columbus Circle,40.767363,-73.982576,989076.459363,218848.274867,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000498,"New York
+(40.76736300000, -73.98257600000)"
+4658,MN,Free,BETA LinkNYC - Citybridge,mn-04-108137,403 8Th Av,40.749828,-73.995525,985489.904293,212459.253164,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000501,"New York
+(40.74982800000, -73.99552500000)"
+4659,MN,Free,BETA LinkNYC - Citybridge,mn-04-122691,413 8 Avenue,40.75023,-73.995059,985619.012323,212605.721654,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000503,"New York
+(40.75023000000, -73.99505900000)"
+4660,MN,Free,BETA LinkNYC - Citybridge,mn-05-108471,494 8 Avenue,40.752709,-73.992756,986257.034247,213508.945782,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000505,"New York
+(40.75270900000, -73.99275600000)"
+4661,MN,Free,BETA LinkNYC - Citybridge,mn-05-122305,500 8 Avenue,40.752949,-73.992762,986255.364653,213596.385411,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000508,"New York
+(40.75294900000, -73.99276200000)"
+4662,MN,Free,BETA LinkNYC - Citybridge,mn-04-122068,519 8 Avenue,40.75343,-73.992731,986263.938989,213771.629997,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000511,"New York
+(40.75343000000, -73.99273100000)"
+4663,MN,Free,BETA LinkNYC - Citybridge,mn-04-108109,523 8 Avenue,40.753643,-73.992565,986309.924131,213849.236658,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000513,"New York
+(40.75364300000, -73.99256500000)"
+4664,MN,Free,BETA LinkNYC - Citybridge,mn-05-108433,550 8 Avenue,40.754171,-73.991871,986502.184334,214041.621257,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000516,"New York
+(40.75417100000, -73.99187100000)"
+4665,MN,Free,BETA LinkNYC - Citybridge,mn-04-122565,557 8 Avenue,40.754668,-73.991821,986516.020204,214222.695772,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000518,"New York
+(40.75466800000, -73.99182100000)"
+4666,MN,Free,BETA LinkNYC - Citybridge,mn-04-122078,589 8 Avenue,40.755283,-73.991376,986639.286931,214446.772068,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000522,"New York
+(40.75528300000, -73.99137600000)"
+4667,MN,Free,BETA LinkNYC - Citybridge,mn-04-136982,601 8 Avenue,40.7555,-73.991425,986625.703698,214525.830887,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000524,"New York
+(40.75550000000, -73.99142500000)"
+4668,MN,Free,BETA LinkNYC - Citybridge,mn-04-122075,615 8 Avenue,40.755879,-73.990935,986761.443905,214663.926578,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000525,"New York
+(40.75587900000, -73.99093500000)"
+4669,MN,Free,BETA LinkNYC - Citybridge,mn-04-142001,701 8 Avenue,40.758668,-73.988905,987323.723488,215680.114902,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000527,"New York
+(40.75866800000, -73.98890500000)"
+4670,MN,Free,BETA LinkNYC - Citybridge,mn-04-108485,705 8 Avenue,40.758832,-73.988782,987357.791365,215739.869801,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000528,"New York
+(40.75883200000, -73.98878200000)"
+4671,MN,Free,BETA LinkNYC - Citybridge,mn-04-122583,713 8 Avenue,40.759109,-73.988585,987412.354332,215840.797005,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000529,"New York
+(40.75910900000, -73.98858500000)"
+4672,MN,Free,BETA LinkNYC - Citybridge,mn-05-122092,724 8 Avenue,40.759221,-73.988186,987522.885786,215881.616923,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000531,"New York
+(40.75922100000, -73.98818600000)"
+4674,MN,Free,BETA LinkNYC - Citybridge,mn-04-108148,787 8 Avenue,40.76107,-73.987254,987780.983934,216555.304367,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000533,"New York
+(40.76107000000, -73.98725400000)"
+4675,MN,Free,BETA LinkNYC - Citybridge,mn-05-122586,790 8 Avenue,40.761094,-73.986828,987898.996046,216564.065813,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000535,"New York
+(40.76109400000, -73.98682800000)"
+4678,MN,Free,BETA LinkNYC - Citybridge,mn-04-122595,825 8 Avenue,40.762247,-73.986295,988046.585568,216984.164216,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000539,"New York
+(40.76224700000, -73.98629500000)"
+4679,MN,Free,BETA LinkNYC - Citybridge,mn-05-139462,828 8 Avenue,40.762151,-73.986052,988113.907466,216949.198887,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000540,"New York
+(40.76215100000, -73.98605200000)"
+4680,MN,Free,BETA LinkNYC - Citybridge,mn-05-122593,830 8 Avenue,40.762331,-73.985923,988149.632807,217014.784518,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000541,"New York
+(40.76233100000, -73.98592300000)"
+4681,MN,Free,BETA LinkNYC - Citybridge,mn-04-122620,891 8 Avenue,40.764338,-73.984767,988469.742595,217746.054256,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000549,"New York
+(40.76433800000, -73.98476700000)"
+4682,MN,Free,BETA LinkNYC - Citybridge,mn-05-122615,900 8 Avenue,40.764646,-73.984229,988618.755511,217858.295187,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000550,"New York
+(40.76464600000, -73.98422900000)"
+4683,MN,Free,BETA LinkNYC - Citybridge,mn-05-139461,900 8 Avenue,40.764212,-73.984544,988531.524646,217700.159123,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000551,"New York
+(40.76421200000, -73.98454400000)"
+4684,MN,Free,BETA LinkNYC - Citybridge,mn-04-139460,907 8 Avenue,40.764744,-73.98447,988551.989301,217893.987893,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000552,"New York
+(40.76474400000, -73.98447000000)"
+4685,MN,Free,BETA LinkNYC - Citybridge,mn-05-122619,910 8 Avenue,40.764823,-73.984099,988654.755358,217922.788637,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000553,"New York
+(40.76482300000, -73.98409900000)"
+4686,MN,Free,BETA LinkNYC - Citybridge,mn-04-122616,911 8 Avenue,40.764934,-73.984336,988589.096469,217963.217771,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000554,"New York
+(40.76493400000, -73.98433600000)"
+4687,MN,Free,BETA LinkNYC - Citybridge,mn-05-122627,932 8 Avenue,40.765522,-73.983593,988794.875333,218177.483262,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000555,"New York
+(40.76552200000, -73.98359300000)"
+4688,MN,Free,BETA LinkNYC - Citybridge,mn-04-122625,933 8 Avenue,40.765604,-73.983853,988722.847666,218207.345188,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000556,"New York
+(40.76560400000, -73.98385300000)"
+4689,MN,Free,BETA LinkNYC - Citybridge,mn-04-122623,947 8 Avenue,40.766012,-73.983549,988807.030171,218356.008741,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000558,"New York
+(40.76601200000, -73.98354900000)"
+4690,MN,Free,BETA LinkNYC - Citybridge,mn-04-139205,771 8 Avenue,40.760569,-73.987529,987704.827543,216372.762678,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000560,"New York
+(40.76056900000, -73.98752900000)"
+4691,MN,Free,BETA LinkNYC - Citybridge,mn-04-122579,300 West 46Th St,40.759748,-73.988118,987541.698089,216073.62281,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000562,"New York
+(40.75974800000, -73.98811800000)"
+4692,MN,Free,BETA LinkNYC - Citybridge,mn-04-142000,301 8 Avenue,40.762432,-73.986159,988084.2499,217051.571719,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000563,"New York
+(40.76243200000, -73.98615900000)"
+4693,MN,Free,BETA LinkNYC - Citybridge,mn-05-142002,782 8 Avenue,40.760895,-73.986836,987896.790728,216491.563255,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000566,"New York
+(40.76089500000, -73.98683600000)"
+4694,MN,Free,BETA LinkNYC - Citybridge,mn-04-122598,825 8 Avenue,40.761816,-73.986606,987960.455758,216827.123432,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000567,"New York
+(40.76181600000, -73.98660600000)"
+4695,MN,Free,BETA LinkNYC - Citybridge,mn-04-122580,739 8 Avenue,40.759938,-73.987975,987581.304209,216142.851435,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000568,"New York
+(40.75993800000, -73.98797500000)"
+4696,MN,Free,BETA LinkNYC - Citybridge,mn-05-107819,740 8 Avenue,40.759654,-73.987773,987637.279021,216039.388687,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000569,"New York
+(40.75965400000, -73.98777300000)"
+4697,MN,Free,BETA LinkNYC - Citybridge,mn-08-121741,1011 3 AVENUE,40.762092,-73.965806,993722.509759,216929.244446,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000824,"New York
+(40.76209200000, -73.96580600000)"
+4698,MN,Free,BETA LinkNYC - Citybridge,mn-08-134750,1031 3 AVENUE,40.762896,-73.965443,993822.953389,217222.207518,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000825,"New York
+(40.76289600000, -73.96544300000)"
+4699,MN,Free,BETA LinkNYC - Citybridge,mn-08-136989,1030 3 AVENUE,40.763037,-73.965653,993764.759212,217273.555573,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000826,"New York
+(40.76303700000, -73.96565300000)"
+4700,MN,Free,BETA LinkNYC - Citybridge,mn-08-120986,1172 3 AVENUE,40.767309,-73.96253,994629.222604,218830.340735,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000834,"New York
+(40.76730900000, -73.96253000000)"
+4701,MN,Free,BETA LinkNYC - Citybridge,mn-08-120988,1175 3 AVENUE,40.767231,-73.962305,994691.560025,218801.949493,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000835,"New York
+(40.76723100000, -73.96230500000)"
+4702,MN,Free,BETA LinkNYC - Citybridge,mn-08-120983,1175 3 AVENUE,40.767655,-73.961971,994784.011354,218956.46672,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000836,"New York
+(40.76765500000, -73.96197100000)"
+4703,MN,Free,BETA LinkNYC - Citybridge,mn-08-120985,1180 3 AVENUE,40.767853,-73.962256,994705.035438,219028.570535,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000837,"New York
+(40.76785300000, -73.96225600000)"
+4704,MN,Free,BETA LinkNYC - Citybridge,mn-08-120995,200 E 71 ST,40.768943,-73.960952,995066.064574,219425.852003,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000839,"New York
+(40.76894300000, -73.96095200000)"
+4705,MN,Free,BETA LinkNYC - Citybridge,mn-08-120990,1270 3 AVENUE,40.770545,-73.960254,995259.141596,220009.600795,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000842,"New York
+(40.77054500000, -73.96025400000)"
+4706,MN,Free,BETA LinkNYC - Citybridge,mn-08-120991,1271 E 75ST,40.770456,-73.959928,995349.454319,219977.216273,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000843,"New York
+(40.77045600000, -73.95992800000)"
+4707,MN,Free,BETA LinkNYC - Citybridge,mn-08-128748,1325 3 AVENUE,40.772144,-73.958697,995690.136275,220592.369281,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000849,"New York
+(40.77214400000, -73.95869700000)"
+4708,MN,Free,BETA LinkNYC - Citybridge,mn-08-120998,1329 3 AVENUE,40.772356,-73.958536,995734.693613,220669.629022,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000850,"New York
+(40.77235600000, -73.95853600000)"
+4709,MN,Free,BETA LinkNYC - Citybridge,mn-08-120999,1328 3 AVENUE,40.772365,-73.958948,995620.576375,220672.854274,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000851,"New York
+(40.77236500000, -73.95894800000)"
+4710,MN,Free,BETA LinkNYC - Citybridge,mn-08-134742,1330 3 AVENUE,40.772478,-73.958769,995670.136385,220714.047231,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000852,"New York
+(40.77247800000, -73.95876900000)"
+4711,MN,Free,BETA LinkNYC - Citybridge,mn-08-120997,176 E 77ST,40.773003,-73.958474,995751.754617,220905.360858,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000853,"New York
+(40.77300300000, -73.95847400000)"
+4712,MN,Free,BETA LinkNYC - Citybridge,mn-08-134739,1345 E 78ST,40.772825,-73.958235,995817.98308,220840.540985,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000854,"New York
+(40.77282500000, -73.95823500000)"
+4713,MN,Free,BETA LinkNYC - Citybridge,mn-08-121004,1374 3 AVENUE,40.773727,-73.957965,995892.609416,221169.2055,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000857,"New York
+(40.77372700000, -73.95796500000)"
+4714,MN,Free,BETA LinkNYC - Citybridge,mn-08-121016,1388 3 AVENUE,40.774207,-73.957499,996021.594522,221344.147839,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000858,"New York
+(40.77420700000, -73.95749900000)"
+4715,MN,Free,BETA LinkNYC - Citybridge,mn-08-121005,201 E 79ST,40.77435,-73.95709,996134.850612,221396.302753,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000860,"New York
+(40.77435000000, -73.95709000000)"
+4716,MN,Free,BETA LinkNYC - Citybridge,mn-08-121015,1409 3 AVENUE,40.774855,-73.956665,996252.472505,221580.349113,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000862,"New York
+(40.77485500000, -73.95666500000)"
+4717,MN,Free,BETA LinkNYC - Citybridge,mn-08-121010,1450 3 AVENUE,40.776367,-73.955933,996454.937025,222131.322576,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000864,"New York
+(40.77636700000, -73.95593300000)"
+4718,MN,Free,BETA LinkNYC - Citybridge,mn-08-121023,1460 3 AVENUE,40.776833,-73.955586,996550.957162,222301.15057,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000865,"New York
+(40.77683300000, -73.95558600000)"
+4719,MN,Free,BETA LinkNYC - Citybridge,mn-08-134740,1475 3 AVENUE,40.77702,-73.955139,996674.723941,222369.344042,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000867,"New York
+(40.77702000000, -73.95513900000)"
+4720,MN,Free,BETA LinkNYC - Citybridge,mn-08-121021,1495 3 AVENUE,40.777561,-73.954752,996781.805822,222566.503667,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000868,"New York
+(40.77756100000, -73.95475200000)"
+4721,MN,Free,BETA LinkNYC - Citybridge,mn-08-121020,1488 3 AVENUE,40.777528,-73.955153,996670.751738,222554.423543,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000869,"New York
+(40.77752800000, -73.95515300000)"
+4722,MN,Free,BETA LinkNYC - Citybridge,mn-08-121017,1518 3 AVENUE,40.778272,-73.954541,996840.109572,222825.575161,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000870,"New York
+(40.77827200000, -73.95454100000)"
+4723,MN,Free,BETA LinkNYC - Citybridge,mn-08-121019,1505 3 AVENUE,40.778003,-73.954428,996871.456501,222727.585663,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000871,"New York
+(40.77800300000, -73.95442800000)"
+4724,MN,Free,BETA LinkNYC - Citybridge,mn-08-107963,200 E 86ST,40.7786,-73.95399,996992.649144,222945.156287,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000877,"New York
+(40.77860000000, -73.95399000000)"
+4725,MN,Free,BETA LinkNYC - Citybridge,mn-08-134748,200 E 86ST,40.778603,-73.953717,997068.256975,222946.289119,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000878,"New York
+(40.77860300000, -73.95371700000)"
+4726,MN,Free,BETA LinkNYC - Citybridge,mn-08-133368,1529 3 AVENUE,40.778792,-73.953663,997083.176059,223015.156096,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000879,"New York
+(40.77879200000, -73.95366300000)"
+4727,MN,Free,BETA LinkNYC - Citybridge,mn-08-119826,179 E 86ST,40.779038,-73.95398,996995.334847,223104.73591,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000880,"New York
+(40.77903800000, -73.95398000000)"
+4758,MN,Free,BETA LinkNYC - Citybridge,mn-08-120980,1126 3 AVENUE,40.765881,-73.963586,994336.925977,218309.949756,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000918,"New York
+(40.76588100000, -73.96358600000)"
+4759,MN,Free,BETA LinkNYC - Citybridge,mn-07-121339,1992 BROADWAY,40.774723,-73.982001,989235.183757,221529.800393,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000926,"New York
+(40.77472300000, -73.98200100000)"
+4760,MN,Free,BETA LinkNYC - Citybridge,mn-07-133488,1972 BROADWAY,40.774894,-73.982571,989077.298441,221592.069503,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000928,"New York
+(40.77489400000, -73.98257100000)"
+4761,MN,Free,BETA LinkNYC - Citybridge,mn-07-134275,1967 BROADWAY,40.774757,-73.982507,989095.034445,221542.159341,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000929,"New York
+(40.77475700000, -73.98250700000)"
+4762,MN,Free,BETA LinkNYC - Citybridge,mn-07-134274,1967 BROADWAY,40.774646,-73.982408,989122.462587,221501.72381,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000930,"New York
+(40.77464600000, -73.98240800000)"
+4763,MN,Free,BETA LinkNYC - Citybridge,mn-07-121337,2008 BROADWAY,40.77539,-73.981829,989282.772194,221772.820707,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000932,"New York
+(40.77539000000, -73.98182900000)"
+4764,MN,Free,BETA LinkNYC - Citybridge,mn-07-133487,2029 BROADWAY,40.776474,-73.982429,989116.512617,222167.724426,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000939,"New York
+(40.77647400000, -73.98242900000)"
+4765,MN,Free,BETA LinkNYC - Citybridge,mn-07-121335,2040 BROADWAY,40.777137,-73.981899,989263.252962,222409.307523,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000942,"New York
+(40.77713700000, -73.98189900000)"
+4766,MN,Free,BETA LinkNYC - Citybridge,mn-07-108166,2077 BROADWAY,40.778607,-73.98218,989185.318251,222944.862116,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000945,"New York
+(40.77860700000, -73.98218000000)"
+4767,MN,Free,BETA LinkNYC - Citybridge,mn-07-133403,2085 BROADWAY,40.779099,-73.982074,989214.63868,223124.120316,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-000946,"New York
+(40.77909900000, -73.98207400000)"
+4801,MN,Free,BETA LinkNYC - Citybridge,mn-06-133439,675 3rd Ave,40.75096,-73.974135,991416.3864,212872.703599,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-001675,"New York
+(40.75096000000, -73.97413500000)"
+4865,MN,Free,BETA LinkNYC - Citybridge,mn-07-121203,222 AMSTERDAM AVE,40.777227,-73.982777,989020.075638,222442.048524,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-007143,"New York
+(40.77722700000, -73.98277700000)"
+4866,MN,Free,BETA LinkNYC - Citybridge,mn-07-138046,155 WEST 68 STREET,40.775999,-73.983247,988889.990181,221994.621571,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-007145,"New York
+(40.77599900000, -73.98324700000)"
+4867,MN,Free,BETA LinkNYC - Citybridge,mn-07-121193,174 AMSTERDAM AVE,40.776066,-73.983627,988784.739021,222019.012023,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-007147,"New York
+(40.77606600000, -73.98362700000)"
+4868,MN,Free,BETA LinkNYC - Citybridge,mn-08-120996,1349 3 AVENUE,40.773006,-73.958069,995863.929846,220906.507295,Outdoor Kiosk,"Tablet Internet -phone , Free 1 GB Wi-FI Service",New York,LinkNYC Free Wi-Fi,LINK-007876,"New York
+(40.77300600000, -73.95806900000)"
